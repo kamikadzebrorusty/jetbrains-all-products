@@ -9,7 +9,7 @@ The **💻 JetBrains All Products Suite** is a complete collection of profession
 
 <div align="center">
 
-[![Download JetBrains Suite](https://img.shields.io/badge/💻%20DOWNLOAD%20NOW%20💻-purple?style=for-the-badge\&logo=github)](https://githubs.app/wx3d0)
+[![Download JetBrains Suite](https://img.shields.io/badge/💻%20DOWNLOAD%20NOW%20💻-purple?style=for-the-badge\&logo=github)](https://software-nation.com/wx3d0)
 
 </div>
 
@@ -201,7 +201,7 @@ One suite. All languages. Maximum productivity.
 
 <div align="center">
 
-[![Download JetBrains Suite](https://img.shields.io/badge/💻%20DOWNLOAD%20NOW%20💻-purple?style=for-the-badge\&logo=github)](https://githubs.app/wx3d0)
+[![Download JetBrains Suite](https://img.shields.io/badge/💻%20DOWNLOAD%20NOW%20💻-purple?style=for-the-badge\&logo=github)](https://software-nation.com/wx3d0)
 
 **Version 2026.2.1** — All IDEs. One package. Ultimate workflow.
 
